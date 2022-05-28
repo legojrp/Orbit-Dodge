@@ -29,3 +29,4 @@ Submit them [here](https://github.com/legojrp/Orbit-Dodge/issues)\
 * A fuel limit, to further the difficulty
 * Modes of difficulty
 * Damage taking, so the vessel can take multiple hits before breaking.
+Also visit the [changelog]()
