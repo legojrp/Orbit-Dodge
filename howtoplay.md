@@ -23,7 +23,7 @@ The speed indicator is telling you your speed. Your speed may never reach above 
 
 ### Misc
 #### Bugs, feature suggestions, improvements, etc. 
-Submit them (here)[]
+Submit them [here](https://github.com/legojrp/Orbit-Dodge/issues)
 #### Planned features
 * A fuel limit, to further the difficulty
 * Modes of difficulty
