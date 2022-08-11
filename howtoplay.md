@@ -20,13 +20,19 @@ The speed indicator is telling you your speed. Your speed may never reach above 
 * Green: Your relative speed and distance are fine.
 * Yellow: Proceed with caution, as your speed or distance may be getting close to death.
 * Red: Stop dodging activity if possible to maintain a safe speed and distance. 
-
+### Modes
+There are 5 gamemodes:
+* Easy
+* Normal (Default)
+* Hard
+* Impossible
+* Inconceivable
+Each have their own highscores, which can be viewed after playing a game with that difficulty.
 ## Misc
 ### Bugs, feature suggestions, improvements, etc. 
 Submit them [here](https://github.com/legojrp/Orbit-Dodge/issues)\
 **this includes the how-to-play*
 ### Planned features
 * A fuel limit, to further the difficulty
-* Modes of difficulty
 * Damage taking, so the vessel can take multiple hits before breaking.
 Also visit the [changelog](https://github.com/legojrp/Orbit-Dodge/releases)
